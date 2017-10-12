@@ -1,0 +1,17 @@
+{
+    "projectName": "CG Project Sandbox Code",
+    "username": "hrukmangad@liquidhub.com.cgdev",
+    "id": "092eee70-af4e-11e7-b5a9-0b697229294d",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://cgfinancial--LHDEV.cs14.my.salesforce.com",
+    "workspace": "E:\\DataBackup\\Salesforce Workspace",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
